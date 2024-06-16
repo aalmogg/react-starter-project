@@ -12,6 +12,7 @@ function NavigationBar() {
           <Nav.Link as={NavLink} to="/" end>Home</Nav.Link>
           <Nav.Link as={NavLink} to="/about">About</Nav.Link>
           <Nav.Link as={NavLink} to="/counter">Counter</Nav.Link>
+          <Nav.Link as={NavLink} to="/product">Product</Nav.Link>
         </Nav>
       </Navbar.Collapse>
     </Navbar>
